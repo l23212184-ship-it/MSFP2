@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica dos: Modelado y control del sistema
+  cardiovascular mediante el modelo Windkessel
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel Hiram
+    family-names: Castro Alcántar
+    email: l23212184@tectijuana.edu.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/l23212184-ship-it/MSFP2'
+keywords:
+  - Sistema cardiovascular
+  - Windkessel
+  - control PID
+  - analógia eléctrica
+  - función de transferencia
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-10-21'
